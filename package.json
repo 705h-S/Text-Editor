@@ -12,6 +12,10 @@
         "client": "cd client && npm start",
         "heroku-prebuild": "npm install --dev"
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/705h-S/Text-Editor.git"
+    },  
     "keywords": [],
     "author": "",
     "license": "ISC",
