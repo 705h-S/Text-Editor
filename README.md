@@ -11,6 +11,8 @@ Just another text editor that meets the Progressive Web App (PWA) criteria. The 
 
 ## Deployed Link
 
+[Live Site](https://polar-escarpment-57400.herokuapp.com/)
+
 ---
 
 ## install
