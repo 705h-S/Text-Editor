@@ -17,7 +17,7 @@
       "url": "git+https://github.com/705h-S/Text-Editor.git"
     },  
     "keywords": [],
-    "author": "",
+    "author": "Joshua Meza",
     "license": "ISC",
     "dependencies": {
       "express": "^4.17.1",
